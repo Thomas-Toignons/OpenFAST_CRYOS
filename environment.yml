@@ -1,0 +1,17 @@
+name: openfast_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - openfast=3.5.5
+  - python
+  - matplotlib
+  - numpy
+  - scikit-learn
+  - scipy
+  - seaborn
+  - ipykernel
+  - windrose
+  - plotly
+  - pyarrow
+  - nbformat
